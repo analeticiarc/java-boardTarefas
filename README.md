@@ -2,8 +2,6 @@
 
 Bem-vindo(a)! Este repositório contém o projeto **Board Gerenciador de Tarefas com Java**, desenvolvido com o objetivo de praticar a construção de um board de tarefas customizável com regras definidas, persistência de dados e foco em boas práticas de programação.
 
-> Este repositório segue uma estrutura padrão para facilitar a organização, manutenção e entendimento dos meus projetos.
-
 ---
 
 ## 📝 Descrição Geral
